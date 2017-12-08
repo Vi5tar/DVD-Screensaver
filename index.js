@@ -7,7 +7,7 @@ var y = canvas.height - 300;
 var dx = 2;
 var dy = -2;
 var img = new Image();
-img.src = 'DVDVideoHalfSize.png';
+img.src = 'DVDVideo.png';
 
 function drawBall() {
   ctx.beginPath();
